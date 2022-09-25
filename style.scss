@@ -10,12 +10,12 @@ body {
     align-items: center;
 
     &::before {
-        content: ' ';
+        content: '';
         position: fixed;
         inset: 0;
         z-index: -1;
         pointer-events: none;
-        background: url(bg.png) no-repeat center;
+        background: url("bg.png") no-repeat center;
         background-size: cover;
         animation: backgroundZoomAnimate 20s forwards;
     }
@@ -189,6 +189,7 @@ body {
             &.blue {
                 background: linear-gradient(45deg, #1da1f2, #0e71c8);
                 box-shadow: 0 4px 30px rgba(19, 127, 212, 0.4);
+                text-align: center;
 
                 &:hover {
                     box-shadow: 0 7px 30px rgba(19, 127, 212, 0.75);
@@ -197,6 +198,7 @@ body {
 
             &.orange {
                 background: linear-gradient(45deg, #d5135a, #f05924);
+                text-align: center;
                 box-shadow: 0 4px 30px rgba(223, 45, 70, 0.35);
 
                 &:hover {
