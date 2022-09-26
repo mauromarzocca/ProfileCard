@@ -150,6 +150,10 @@ body::before {
   background: linear-gradient(45deg, #333333, #626b73);
   box-shadow: 0 4px 30px rgba(63, 65, 67, 0.6);
 }
+.profile-card__social a.linkedin {
+  background: linear-gradient(45deg, #3b5998, #0078d7);
+  box-shadow: 0 4px 40px rgba(43, 98, 169, 0.5);
+}
 .profile-card__actions {
   display: flex;
   align-items: center;
