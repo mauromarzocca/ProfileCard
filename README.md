@@ -2,6 +2,7 @@
  
 Profile Card è un layout che permette di collegare direttamente i propri profili al suo interno 
 
+![card](card.png)
 ## Index 
 
 Card aggiornata e perfettamente funzionante con tutti i miei profili.
