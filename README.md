@@ -10,7 +10,6 @@ Card aggiornata e perfettamente funzionante con tutti i miei profili.
 ### Mancanze
 
 - Favicon -> Carta di Yu-Gi-OH!
-- Riorganizazzione Directory
 - Github Pages
 ## Index-Test
 
