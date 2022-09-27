@@ -9,7 +9,6 @@ Card aggiornata e perfettamente funzionante con tutti i miei profili.
 
 ### Mancanze
 
-- Favicon -> Carta di Yu-Gi-OH!
 - Github Pages
 ## Index-Test
 
@@ -26,4 +25,4 @@ Voglio che il modulo della mail apra direttamente l'applicazione della mail
 
 - 25/9 : Creazione Card
 - 26/9 : Collegati i profili, Bug Fix e creazione del Readme
-- 27/9 : Aggiornato il Readme 
+- 27/9 : Aggiornato il Readme, aggiunta favicon
