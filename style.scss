@@ -170,6 +170,37 @@ body {
             gap: 1.5rem;
         }
 
+        &>a {
+            font-weight: bold;
+            font-size: 22px;
+            padding: 15px 0;
+            min-width: 250px;
+            border-radius: 50px;
+            color: white;
+            cursor: pointer;
+            transition: all .2s;
+
+            @media screen and (max-width: 768px) {
+                min-width: 170px;
+            }
+
+            @media screen and (min-width: 576px) {
+                &:hover {
+                    transform: translateY(-5px);
+                }
+            }
+
+            &.blue {
+                background: linear-gradient(45deg, #1da1f2, #0e71c8);
+                box-shadow: 0 4px 30px rgba(19, 127, 212, 0.4);
+                text-align: center;
+
+                &:hover {
+                    box-shadow: 0 7px 30px rgba(19, 127, 212, 0.75);
+                }
+            }
+        }
+        
         &>button {
             font-weight: bold;
             font-size: 22px;
